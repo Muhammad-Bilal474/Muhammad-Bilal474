@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
 
 <h3 align="center">
-AI-Driven Product Engineer | Full Stack Developer | React.js | Next.js | Nest.js | React Native | Node.js  | MongoDB | PostgreSQL |  AWS  | JavaScript | TypeScript
+Empowering businesses with scalable, high-performance digital solutions that drive efficiency, innovation, and long-term growth.
 </h3>
 
 <p align="center">
