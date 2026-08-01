@@ -70,6 +70,8 @@ Helping startups and businesses build AI-powered digital products that automate 
 - Quizzes
 - Notifications
 
+  🔗 **Link:** https://play.google.com/store/apps/details?id=com.amalearning
+
 ### 🏠 Real Estate Platform
 
 - Property Listings
