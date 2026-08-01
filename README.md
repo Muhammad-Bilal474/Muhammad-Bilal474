@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
 
 <h3 align="center">
-Empowering businesses with scalable, high-performance digital solutions that drive efficiency, innovation, and long-term growth.
+Helping startups and businesses build AI-powered digital products that automate workflows, increase revenue, and scale with confidence.
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;React+Native+Developer;Open+to+Freelance+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Full+Stack+%26+AI+Developer;Building+AI-Powered+Web+%26+Mobile+Applications;OpenAI+%7C+Gemini+%7C+Claude+Integrations;SaaS+%7C+Automation+%7C+Dashboards;Helping+Businesses+Scale+with+AI" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer with **5+ years** of experience
-- 🚀 Building scalable **Web & Mobile Applications**
-- 🌱 Currently exploring **AI Integrations & AWS**
-- 💬 Ask me about **React, Next.js, Node.js, NestJS, MongoDB, PostgreSQL & React Native**
-- 🤝 Available for **Freelance & Remote Projects**
+- 💼 Helping startups & businesses build **AI-powered Web, Mobile & SaaS products**
+- 💻 Full Stack Developer with **5+ years** of experience delivering production-ready applications
+- 🤖 Building intelligent solutions using **OpenAI, Gemini, Claude & custom AI workflows**
+- ⚡ Specialized in scalable architectures, API integrations, automation & cloud deployment
+- 📈 Focused on creating software that improves efficiency, reduces costs, and drives business growth
+- 🤝 Available for **Freelance, Startup & Long-Term Remote Projects**
 
 ---
 
@@ -93,6 +94,19 @@ A modern software solutions platform built to help businesses digitize their ope
 🔗 **Website:** https://tijarahsoft.com
 
 ---
+
+## 💼 Services I Offer
+
+🚀 AI-Powered Web Applications
+📱 Cross-Platform Mobile Apps
+💻 Custom Business Software
+🤖 AI Chatbots & Assistants
+⚙️ Workflow Automation
+📊 Admin Dashboards & Analytics
+🛒 E-commerce Solutions
+🔗 Third-Party API Integrations
+☁️ Cloud Deployment (AWS, Vercel, Docker)
+🔧 Long-Term Product Maintenance
 
 ## 🌐 Connect With Me
 
