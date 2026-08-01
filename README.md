@@ -97,16 +97,16 @@ A modern software solutions platform built to help businesses digitize their ope
 
 ## 💼 Services I Offer
 
-🚀 AI-Powered Web Applications
-📱 Cross-Platform Mobile Apps
-💻 Custom Business Software
-🤖 AI Chatbots & Assistants
-⚙️ Workflow Automation
-📊 Admin Dashboards & Analytics
-🛒 E-commerce Solutions
-🔗 Third-Party API Integrations
-☁️ Cloud Deployment (AWS, Vercel, Docker)
-🔧 Long-Term Product Maintenance
+- 🚀 AI-Powered Web Applications
+- 📱 Cross-Platform Mobile Apps
+- 💻 Custom Business Software
+- 🤖 AI Chatbots & Assistants
+- ⚙️ Workflow Automation
+- 📊 Admin Dashboards & Analytics
+- 🛒 E-commerce Solutions
+- 🔗 Third-Party API Integrations
+- ☁️ Cloud Deployment (AWS, Vercel, Docker)
+- 🔧 Long-Term Product Maintenance
 
 ## 🌐 Connect With Me
 
